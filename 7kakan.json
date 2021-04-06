@@ -5,21 +5,21 @@
    "author": "KIRI Kizamu",
    "cover": "https://i.imgur.com/E0GVADS.jpg",
    "chapters": {
-      "1": {
-         "title": "Vol. 1 Ch. 1",
-         "volume": "1",
-         "groups": {
-            "Knox": "/proxy/api/imgur/chapter/kvlQUCe/"
-         },
-         "last_updated": "1617740487"
+    "1": {
+      "title": "Vol. 1 Ch. 1",
+      "volume": "10",
+      "groups": {
+        "Knox": "/proxy/api/imgur/chapter/kvlQUCe/"
       },
+      "last_updated": "1617740487"
+    },
        "2": {
-            "title": "Vol. 1 Ch. 2",
-            "volume": "1",
-            "groups": {
-               "Knox": "/proxy/api/imgur/chapter/YsTFeHt/"
-            },
-            "last_updated": "1617740487"
-      }
-   }
+      "title": "Vol. 1 Ch. 2",
+      "volume": "12",
+      "groups": {
+        "Knox": "/proxy/api/imgur/chapter/YsTFeHt/"
+      },
+      "last_updated": "1617740487"
+    }
+  }
 }
