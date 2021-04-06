@@ -1,73 +1,25 @@
 {
-  "title": "From Misunderstandings to Marriage",
-  "description": "The difference between ideals and reality...? A love comedy in which a man and a woman grow closer, despite misunderstanding each other.",
-  "artist": "Yano Toshinori",
-  "author": "Yano Toshinori",
-  "cover": "https://i.imgur.com/zdZJrk4.png",
+  "title": "Kuudere Sugiru Mirai no Yome no Mendou na 7-kakan",
+  "description": "",
+  "artist": "Getsuyou Yasumi",
+  "author": "KIRI Kizamu",
+  "cover": "https://i.imgur.com/E0GVADS.jpg",
   "chapters": {
     "01": {
-      "title": "",
-      "volume": "",
+      "title": "Vol. 1 Ch. 1",
+      "volume": "1",
       "groups": {
-        "Danke fürs Lesen": "/proxy/api/imgur/chapter/LVvJzEs/"
+        "Knox": "/proxy/api/imgur/chapter/LVvJzEs/"
       },
-      "last_updated": "1616962647"
+      "last_updated": "1617740487"
     },
       "02": {
-      "title": "",
-      "volume": "",
+      "title": "Vol. 1 Ch. 2",
+      "volume": "1",
       "groups": {
-        "Danke fürs Lesen": "/proxy/api/imgur/chapter/zhcMVvH/"
+        "Knox": "/proxy/api/imgur/chapter/zhcMVvH/"
       },
-      "last_updated": "1616962647"
-    },
-      "03": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "Danke fürs Lesen": "/proxy/api/imgur/chapter/Xxj8jWX/"
-      },
-      "last_updated": "1616962647"
-    },
-      "04": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "Danke fürs Lesen": "/proxy/api/imgur/chapter/UJXvDWQ/"
-      },
-      "last_updated": "1616962647"
-    },
-      "05": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "Danke fürs Lesen": "/proxy/api/imgur/chapter/r7Y9joK/"
-      },
-      "last_updated": "1616962647"
-    },
-      "06": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "Danke fürs Lesen": "/proxy/api/imgur/chapter/7eZGySD/"
-      },
-      "last_updated": "1616962647"
-    },
-      "07": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "Danke fürs Lesen": "/proxy/api/imgur/chapter/ZOge7xT/"
-      },
-      "last_updated": "1616962647"
-        },
-      "08": {
-      "title": "",
-      "volume": "",
-      "groups": {
-        "Danke fürs Lesen": "/proxy/api/imgur/chapter/niPBswI/"
-      },
-      "last_updated": "1616962647"
+      "last_updated": "1617740487"
     }
   }
 }
