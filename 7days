@@ -20,6 +20,14 @@
         "Knox": "/proxy/api/imgur/chapter/YsTFeHt/"
       },
       "last_updated": "1617977224"
-    }    
+    },
+    "03": {
+      "title": "Vol. 1 Ch. 3",
+      "volume": "1",
+      "groups": {
+        "Knox": "/proxy/api/imgur/chapter/lRjmIHJ/"
+      },
+      "last_updated": "1617977224"
+    }
   }
 }
