@@ -28,6 +28,30 @@
         "Knox": "/proxy/api/imgur/chapter/lRjmIHJ/"
       },
       "last_updated": "1617977224"
+    },
+    "04": {
+      "title": "Vol. 1 Ch. 4",
+      "volume": "1",
+      "groups": {
+        "Knox": "/proxy/api/imgur/chapter/InaENtP/"
+      },
+      "last_updated": "1617977224"
+    },
+    "05": {
+      "title": "Vol. 1 Ch. 5",
+      "volume": "1",
+      "groups": {
+        "Knox": "/proxy/api/imgur/chapter/oHDSHeU/"
+      },
+      "last_updated": "1617977224"
+    },
+    "06": {
+      "title": "Vol. 1 Ch. 6",
+      "volume": "1",
+      "groups": {
+        "Knox": "/proxy/api/imgur/chapter/mBUKWQA/"
+      },
+      "last_updated": "1617977224"
     }
   }
 }
